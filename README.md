@@ -2,7 +2,7 @@
 
 
 # Stack	Technology
-Frontend- HTML & CSS 
-Backend	Django Framework
-Database	mySQL
-Deployed on	Heroku
+1.Frontend- HTML & CSS 
+2.Backend	Django Framework
+3.Database	mySQL
+4.Deployed on	Heroku
