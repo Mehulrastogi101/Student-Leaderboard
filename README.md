@@ -1,7 +1,7 @@
 # This is an assignment for Full Stack Developer Internship (AlmaBetter)
 
 
-# Stack	Technology
+# Stack	Technology:-
 1.)Frontend- HTML & CSS 
 
 2.)Backend	Django Framework
